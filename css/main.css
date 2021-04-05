@@ -1,7 +1,17 @@
 html {
   box-sizing: border-box;
+  line-height: 1.5;
+  font-family: "Karma", serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  margin: 1rem;
 }
