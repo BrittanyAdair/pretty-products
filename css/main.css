@@ -39,4 +39,11 @@ ol {
   margin: 0;
   display: grid;
   grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+ol > li {
+  border: 3px solid #987ff8;
+  border-radius: 6px;
+  padding: 1rem;
 }
